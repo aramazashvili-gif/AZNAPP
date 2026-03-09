@@ -1,0 +1,33 @@
+{
+  "name": "ოთახის შემოწმება — Lopota",
+  "short_name": "შემოწმება",
+  "description": "სასტუმრო ოთახის შემოწმების სისტემა",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "lang": "ka",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' rx='32' fill='%230d1117'/><text y='130' x='20' font-size='140'>🏨</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' rx='80' fill='%230d1117'/><text y='360' x='40' font-size='380'>🏨</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "business"],
+  "shortcuts": [
+    {
+      "name": "ახალი შემოწმება",
+      "url": "./index.html#form",
+      "description": "ახალი შემოწმების დაწყება"
+    }
+  ]
+}
